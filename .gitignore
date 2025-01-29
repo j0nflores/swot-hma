@@ -1,3 +1,21 @@
+#files/imgs
+*.txt
+*.sh
+*.npy
+*.ipynb
+*.pyc
+*.ipynb_checkpoints
+*.tif
+
+#folders
+.ipynb_checkpoints/
+output/
+CaMa-Flood_v4/
+dev/
+data/
+figs/
+log/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
